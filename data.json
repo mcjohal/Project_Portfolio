@@ -15,7 +15,7 @@
             "title": "Jeep Offroad Social Media App",
             "website_url": "https://social-network-kppg.onrender.com",
             "github_url": "https://github.com/mcjohal/Social_Network.git",
-            "description": "                This is a Jeep Social Media Network Application. It have various functionality.\n<br>\n1. Allows user to add comments\n<br>\n2. Provides a page to view a social media feed.\n<br>\n3. Keeps track of members.\n<br>\n4. Allows members to create posts.\n<br>\n\n<br>\nThe index.html page is the dashboard. This application implement the JSONPlaceholder API.\n<br>\nJSONPlaceholder is a free online REST API that you can use whenever you need some fake data. \n<br>\nJSONPlaceholder comes with a set of 6 common resources including posts, comments, albums, photos, todos, and users.            "
+            "description": "This is a Jeep Social Media Network Application. It have various functionality.\n<br>1. Allows user to add comments \n<br>2. Provides a page to view a social media feed. \n<br>3. Keeps track of members. \n<br>4. Allows members to create posts. \n<br>The index.html page is the dashboard. This application implement the JSONPlaceholder API.\n<br>JSONPlaceholder is a free online REST API that you can use whenever you need some fake data. \n<br>JSONPlaceholder comes with a set of 6 common resources including posts, comments, albums, photos, todos, and users.  "
         },
         {
             "id": 1763886356206,
@@ -23,7 +23,7 @@
             "title": "API Playground / Useful App",
             "website_url": "https://useful-app.onrender.com",
             "github_url": "https://github.com/mcjohal/Useful_App.git",
-            "description": "                                This is a Flask application that implements 3 different free APIs. \n<br>\n1. Advice Slip API -The Advice Slip JSON API is provided for free. \ud83d\ude0e It currently gives out over 10 million pieces of advice every year. Returns a random advice slip as a slip object.\n<br>\n2. Giphy API - By integrating with GIPHY, the first and largest GIF search engine, you gain access to our ever-growing content library of GIFs and Stickers \u2014 featuring the latest in entertainment, sports, and breaking news from GIPHY's official content partners.\n<br>\n3. BoredAPI - The Bored API helps you find things to do when you're bored! There are fields like the number of participants, activity type, and more that help you narrow down your results.\n<br>\n\n<br>\nThe application includes the Bootstrap CDN https://bootswatch.com/morph/ theme.\n<br>\n            \n<br>\n            "
+            "description": "                                \n<br>\n<br> This is a Flask application that implements 3 different free APIs. \n<br>\n<br>1. Advice Slip API -The Advice Slip JSON API is provided for free. It currently gives out over 10 million pieces of advice every year. Returns a random advice slip as a slip object.\n<br>\n<br>2. Giphy API - By integrating with GIPHY, the first and largest GIF search engine, you gain access to our ever-growing content library of GIFs and Stickers featuring the latest in entertainment, sports, and breaking news from GIPHY's official content partners.\n<br>\n<br>3. BoredAPI - The Bored API helps you find things to do when you're bored! There are fields like the number of participants, activity type, and more that help you narrow down your results.\n<br>\n<br>The application includes the Bootstrap CDN https://bootswatch.com/morph/ theme.    \n<br>            "
         },
         {
             "id": 1763886435626,
@@ -31,7 +31,7 @@
             "title": "Workout Planner",
             "website_url": "https://j28gym.com",
             "github_url": "https://github.com/mcjohal/Workout_App.git",
-            "description": "This application allows the user plan future workouts. The workout planning application provides the following functionality:\n<br>\n1. Login using YouTube account\n<br>\n2. Add exercises including title, image links, video links, and description.\n<br>\n3. Allows the user to select a calendar date and exercises, including reps, sets and max-weight for that date.\n<br>\n4. Provide a list of upcoming planned workout instances.\n<br>\n5. Provides functionality to flag each planned exercise as completed. \n<br>\n6. Display the number of completed workouts on the dashboard for that user.  \n<br>\n7. This app is a work in progress.\n<br>\n\n<br>\n            "
+            "description": "This application allows the user plan future workouts. The workout planning application provides the following functionality:\n<br>\n<br>1. Login using YouTube account\n<br>2. Add exercises including title, image links, video links, and description.\n<br>3. Allows the user to select a calendar date and exercises, including reps, sets and max-weight for that date.\n<br>4. Provides a list of upcoming planned workout instances.\n<br>5. Provides functionality to flag each planned exercise as completed.\n<br>6. Display the number of completed workouts on the dashboard for that user.\n<br>\n<br>This app is a work in progress.\""
         }
     ]
 }
